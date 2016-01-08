@@ -4,6 +4,7 @@
 *.dsc
 *.changes
 *.upload
+*.sw[po]
 
 # ignore compiled python code
 __pycache__
